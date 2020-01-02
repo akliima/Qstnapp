@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">list view</string>
+
+    <string name="question">Question and Book</string>
+    <string name="Book">
+    <a href="http://www.w3schools.com">Developed by W3</a>
+    </string>
+
+    <string-array name="Subject_Title">
+
+        <item>Android App</item>
+
+
+        <item>Computer Graphics</item>
+        <item>Compiler Design</item>
+
+        <item>Computer Periferals and Interfacing</item>
+
+        <item>Digital Signal Processing</item>
+
+        <item> Software Engneering</item>
+
+    </string-array>
+</resources>
